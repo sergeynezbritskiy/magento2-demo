@@ -124,6 +124,9 @@ return [
         'Magento_SalesRuleSampleData' => 1,
         'Magento_TaxImportExport' => 1,
         'Magento_TaxSampleData' => 1,
+        'Magento_TestModuleDirectoryZipCodes' => 1,
+        'Magento_TestModuleFakePaymentMethod' => 1,
+        'Magento_TestModuleSample' => 1,
         'Magento_Authorization' => 1,
         'Magento_CmsSampleData' => 1,
         'Magento_Translation' => 1,
@@ -143,6 +146,7 @@ return [
         'Dotdigitalgroup_Email' => 1,
         'Magento_WishlistAnalytics' => 1,
         'Magento_WishlistSampleData' => 1,
+        'SergeyNezbritskiy_CustomCartPriceRuleCondition' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1
     ]
